@@ -70,3 +70,11 @@
   .bottom-text {
       color: rgb(105, 120, 130);
   } 
+
+  #reply {
+      margin-right: 2rem;
+  }
+
+  #favorite {
+      margin-left: 2rem;
+  }
